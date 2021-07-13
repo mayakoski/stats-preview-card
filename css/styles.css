@@ -67,7 +67,7 @@ mark {
       hsla(300 60% 41% / 0.4),
       hsla(300 60% 41% / 0.4)
     ),
-    url(/images/image-header-desktop.jpg);
+    url(./images/image-header-desktop.jpg);
 }
 
 .attribution {
@@ -151,7 +151,7 @@ mark {
         hsla(300 60% 41% / 0.4),
         hsla(300 60% 41% / 0.4)
       ),
-      url(/images/image-header-mobile.jpg);
+      url(./images/image-header-mobile.jpg);
     background-size: 350px 200px;
   }
 
