@@ -63,11 +63,6 @@ mark {
   margin-top: 0;
   right: 0;
   overflow: hidden;
-  /* background-image: linear-gradient(
-      hsla(300 60% 41% / 0.4),
-      hsla(300 60% 41% / 0.4)
-    ),
-    url(/images/image-header-desktop.jpg); */
 }
 
 .sobre-imagen {
